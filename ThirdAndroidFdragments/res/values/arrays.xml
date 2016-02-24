@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string-array name="headlinesAArray">
+        <item android:id="@+id/item1">headline1</item>
+        <item android:id="@+id/item1">headline2</item>
+        <item android:id="@+id/item1">headline3</item>
+        <item android:id="@+id/item1">headline4</item>
+        <item android:id="@+id/item1">headline5</item>
+        <item android:id="@+id/item1">headline6</item>
+        <item android:id="@+id/item1">headline7</item>
+        <item android:id="@+id/item1">headline8</item>
+        <item android:id="@+id/item1">headline9</item>
+        <item android:id="@+id/item1">headline10</item>
+    </string-array>
+    
+</resources>
